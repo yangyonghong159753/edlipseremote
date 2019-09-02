@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 public class Text {
 
+	//qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 	public static void main(String[] args) {
 		int scores[]=new int[5];  //创建长度为5的整形数组
 		Scanner scanner=new Scanner(System.in);  //创建scanner对象
